@@ -1,2 +1,0 @@
-# Lifestyle
-e-commerce project
